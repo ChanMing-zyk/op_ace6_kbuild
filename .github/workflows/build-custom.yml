@@ -10,13 +10,12 @@ on:
           default: "RKSU"
           options:
             - 'KSU'
-            - 'SUKISU'
             - 'NEXT'
-            - 'WILD'
             - 'RKSU'
+            - 'SUKISU'
+            - 'RESUKISU'
             - 'MAMBOSU'
             - 'XXKSU'
-            - 'RESUKISU'
         KSU_BRANCH:
           required: true
           type: string
